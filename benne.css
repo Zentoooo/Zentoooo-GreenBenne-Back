@@ -1,0 +1,27 @@
+		html {
+			font-family: Arial;
+			display: inline-block;
+			margin: 0px auto;
+			text-align: center;
+		}
+		
+		.Titre1{
+			font-size: 60px;
+			border: 3px solid white;
+			color: #019bbe;
+		}
+
+		.Titre2{
+			font-size: 60px;
+			border: 3px solid white;
+		}
+
+		.Tableau{
+			font-size: 30px;
+		
+		}
+
+		.InformationBennes{
+			font-size: 20px;
+
+		}
